@@ -37,9 +37,9 @@
     Т.к. настройки флота могут отличаться от коллектива к коллективу -
     в первый раз проще будет дождаться когда флот поднимет кто-то у кого настройки сохранены. После этого вступаем во флот, открываем меню флота и выбираем `Store Fleet Setup` (`Сохранить состав флота`)
 
-    ![fleet-store-eng](/Images/fleet-store-eng.png)
+    ![fleet-store-eng](Images/fleet-store-eng.png)
 
-    ![fleet-store-rus](/Images/fleet-store-rus.png)
+    ![fleet-store-rus](Images/fleet-store-rus.png)
 
     Отмечаем в открывшемся окне все галки и выбираем название флота
 
@@ -59,9 +59,9 @@
     Дальше настройки могут различаться от коллектива к коллективу,
     уточните настройки если не уверены как выставлять.
 
-    ![fleet-advert-eng](/Images/fleet-advert-eng.png)
+    ![fleet-advert-eng](Images/fleet-advert-eng.png)
 
-    ![fleet-advert-rus](/Images/fleet-advert-rus.png)
+    ![fleet-advert-rus](Images/fleet-advert-rus.png)
     
     Настроили, жмём `Submit` (`Отправить`).
 
