@@ -5,5 +5,5 @@
 - [Майнинг]()
     - [Разметка аномалий](Mining/Safe-mining.md)
 - [Сторонние приложения]()
-    - [SMT : Eve Map Tool](ThirdPartyApplications/tools-smt.md)
+    - [SMT : Eve Map Tool](ThirdPartyApplications/smt/tools-smt.md)
 - [Фиты]()
