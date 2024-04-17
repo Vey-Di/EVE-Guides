@@ -3,6 +3,7 @@
 - [Общее]()
     - [Поднятие стендинг флота](General/Fleet-up/fleet-up.md)
 - [Майнинг]()
+    - [Майнинг](Mining/MainMining/mainMining.md)
     - [Разметка аномалий](Mining/Safe-mining/Safe-mining.md)
 - [Сторонние приложения]()
     - [SMT : Eve Map Tool](ThirdPartyApplications/SMT/tools-smt.md)
