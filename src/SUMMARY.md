@@ -2,6 +2,7 @@
 [Cover](MainPage.md)
 - [Общее]()
     - [Поднятие стендинг флота](General/Fleet-up/fleet-up.md)
+    - [Salvaging](General/Salvaging/Salvaging.md)
 - [Майнинг]()
     - [Майнинг](Mining/MainMining/mainMining.md)
     - [Разметка аномалий](Mining/Safe-mining/Safe-mining.md)
